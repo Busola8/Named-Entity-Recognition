@@ -1,0 +1,5 @@
+{"text": "John Smith, born on 12/07/1990, lives in Lagos. Email: john.smith@example.com. Phone: +2348123456789.", "entities": [[0, 10, "PERSON"], [21, 31, "DATE"], [42, 47, "GPE"], [55, 79, "EMAIL"], [88, 102, "PHONE"]]}
+{"text": "Mary Johnson applied for the loan on 2025-07-01 at Premium Trust Bank in Ikeja. Contact: mary.j@example.com", "entities": [[0, 12, "PERSON"], [36, 46, "DATE"], [50, 69, "ORG"], [73, 78, "GPE"], [88, 105, "EMAIL"]]}
+{"text": "Passport: A12345678. Name: Adewale Olonade. DOB: 1992-05-10. Address: Victoria Island, Lagos.", "entities": [[10, 19, "PASSPORT"], [27, 43, "PERSON"], [49, 59, "DATE"], [70, 91, "ADDRESS"]]}
+{"text": "Company: Acme Corp. Invoice date: March 3, 2025. Amount due: \u20a6150,000. Contact person: Chidi Okeke (chidi.okeke@acme.co)", "entities": [[9, 18, "ORG"], [32, 47, "DATE"], [61, 68, "MONEY"], [83, 93, "PERSON"], [96, 120, "EMAIL"]]}
+{"text": "Beneficiary: Olusola Olonade; Account: 0123456789; Bank: GTBank; Transfer date 2025-06-15.", "entities": [[13, 29, "PERSON"], [41, 51, "ACCOUNT"], [59, 65, "ORG"], [66, 82, "DATE"]]}

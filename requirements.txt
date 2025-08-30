@@ -1,0 +1,5 @@
+spacy
+streamlit
+pypdf2
+loguru
+pytest
