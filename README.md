@@ -30,8 +30,3 @@ streamlit run app/streamlit_app.py
 ```
 4. Try pasting sample text or uploading a .txt file. Click **Extract entities** and see the auto-filled fields.
 
-## Notes on real-world usage
-- Use a larger annotated dataset for production (1000s of labeled examples).
-- Consider active learning to grow the labeled set: collect model predictions, ask human validators, retrain periodically.
-- For privacy, redact PII before storing logs. Store models and data with access control.
-- For production-scale training, use spaCy training with a config file or Hugging Face token-classification fine-tuning with GPUs.
